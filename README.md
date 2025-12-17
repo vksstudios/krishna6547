@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishna6547
+- 👋 Hi, I’m VKS
 - 👀 I’m interested in coding
 
 <!---
